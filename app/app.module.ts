@@ -7,7 +7,7 @@ import {CollectableService} from "./shared/collectable.service";
 
 @NgModule({
   imports:      [ BrowserModule,  HttpModule],
-  declarations: [ AppComponent],
+  declarations: [ AppComponent,MarketComponent],
   providers: [CollectableService],
   bootstrap:    [ AppComponent ]
 })

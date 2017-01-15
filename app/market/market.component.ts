@@ -5,7 +5,7 @@ import {Collectable} from "../shared/collectable.model";
 
 @Component({
   selector: 'app-market',
-  templateUrl: './market.component.html'
+  templateUrl: 'app/market/market.component.html'
 
 })
 export class MarketComponent implements OnInit {

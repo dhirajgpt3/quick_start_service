@@ -3,7 +3,7 @@ import {CollectableService} from "./shared/collectable.service";
 
 @Component({
   selector: 'my-app',
-  templateUrl: './app.component.html'
+  templateUrl: 'app/app.component.html',
 })
 export class AppComponent {
 }
